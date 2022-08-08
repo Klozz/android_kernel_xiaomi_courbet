@@ -139,4 +139,3 @@ int gf_irq_num(struct gf_dev *gf_dev)
 		return gpio_to_irq(gf_dev->irq_gpio);
 	}
 }
-
